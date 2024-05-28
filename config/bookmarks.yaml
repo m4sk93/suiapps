@@ -1,0 +1,22 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/bookmarks
+
+- Developer:
+
+    - Sui:
+        - abbr: Sui
+          href: https://sui.io
+    - SuiScan:
+        - abbr: Sui
+          href: https://suiscan.xyz
+
+- Social:
+    - Sui Riders CN:
+        - abbr: TG
+          href: https://t.me/sui_dev_cn
+
+- Resources:
+    - Move by Example:
+        - abbr: Sui
+          href: https://examples.sui.io/

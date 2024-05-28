@@ -1,0 +1,37 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/services
+
+- Defi:
+    - NAVI:
+        href: https://app.naviprotocol.io/
+        description: Native one stop liquidity protocol
+    - Hop Aggregator:
+        href: https://hop.ag/
+        description: Get the best rates and fastest swaps, with no added fees.
+    - Suilend:
+        href: https://www.suilend.fi/
+        description: Suilend is the fastest-growing lending protocol on Sui, built by the team behind Solend, the most battle-tested lending protocol on Solana.
+
+- DEX:
+    - Aftermath Finance:
+        href: https://aftermath.finance
+        description: The all-in-one DEX on Sui, featuring a fully on-chain perpetuals exchange, smart-order routing, liquid staking, and a novel spot AMM.
+    - Cetus Protocol:
+        href: https://app.cetus.zone/
+        description: The pioneer concentrated liquidity DEX on Sui.
+    - FlowX Finance:
+        href: https://flowx.finance/
+        description: Ecosystem-focused native DEX & aggregator on the Sui Network.
+
+
+- Game:
+    - DoubleUp:
+        href: https://www.doubleup.fun/
+        description: DoubleUp at the fully decentralized web3 casino.
+    - Poetry in Motion:
+        href: https://poetrymoves.us/
+        description: Express your wit and creativity with the first web3 poetry CCG experience!
+    - DeSui Coinflip:
+        href: https://desuicoinflip.io/
+        description: A smart-contract powered dice game.

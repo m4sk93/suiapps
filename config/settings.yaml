@@ -1,0 +1,14 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/settings
+
+title: Sui Apps
+
+theme: dark # or light
+
+favicon: https://cryptologos.cc/logos/sui-sui-logo.svg?v=032
+# background: https://cryptologos.cc/logos/sui-sui-logo.svg?v=032
+
+providers:
+  openweathermap: openweathermapapikey
+  weatherapi: weatherapiapikey
